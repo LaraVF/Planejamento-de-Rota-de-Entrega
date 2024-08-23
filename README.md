@@ -31,3 +31,6 @@ Você é o gerente de logística de uma empresa de entregas que atende a uma cid
 4. **Documentação:**
     - Escreva um relatório em Markdown que documente:
         - A divisão dos pacotes entre os veículos.
+        - As rotas planejadas para cada veículo, incluindo a sequência de entregas.
+        - O custo total de cada rota.
+        - Qualquer desafio encontrado e como foi resolvido.
